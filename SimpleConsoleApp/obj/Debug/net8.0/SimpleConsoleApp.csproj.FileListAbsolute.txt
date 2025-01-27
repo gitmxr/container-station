@@ -1,0 +1,15 @@
+C:\MyFullStackJourney\csharp-blueprint\Practice\SimpleConsoleApp\bin\Debug\net8.0\SimpleConsoleApp.exe
+C:\MyFullStackJourney\csharp-blueprint\Practice\SimpleConsoleApp\bin\Debug\net8.0\SimpleConsoleApp.deps.json
+C:\MyFullStackJourney\csharp-blueprint\Practice\SimpleConsoleApp\bin\Debug\net8.0\SimpleConsoleApp.runtimeconfig.json
+C:\MyFullStackJourney\csharp-blueprint\Practice\SimpleConsoleApp\bin\Debug\net8.0\SimpleConsoleApp.dll
+C:\MyFullStackJourney\csharp-blueprint\Practice\SimpleConsoleApp\bin\Debug\net8.0\SimpleConsoleApp.pdb
+C:\MyFullStackJourney\csharp-blueprint\Practice\SimpleConsoleApp\obj\Debug\net8.0\SimpleConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFullStackJourney\csharp-blueprint\Practice\SimpleConsoleApp\obj\Debug\net8.0\SimpleConsoleApp.AssemblyInfoInputs.cache
+C:\MyFullStackJourney\csharp-blueprint\Practice\SimpleConsoleApp\obj\Debug\net8.0\SimpleConsoleApp.AssemblyInfo.cs
+C:\MyFullStackJourney\csharp-blueprint\Practice\SimpleConsoleApp\obj\Debug\net8.0\SimpleConsoleApp.csproj.CoreCompileInputs.cache
+C:\MyFullStackJourney\csharp-blueprint\Practice\SimpleConsoleApp\obj\Debug\net8.0\SimpleConsoleApp.sourcelink.json
+C:\MyFullStackJourney\csharp-blueprint\Practice\SimpleConsoleApp\obj\Debug\net8.0\SimpleConsoleApp.dll
+C:\MyFullStackJourney\csharp-blueprint\Practice\SimpleConsoleApp\obj\Debug\net8.0\refint\SimpleConsoleApp.dll
+C:\MyFullStackJourney\csharp-blueprint\Practice\SimpleConsoleApp\obj\Debug\net8.0\SimpleConsoleApp.pdb
+C:\MyFullStackJourney\csharp-blueprint\Practice\SimpleConsoleApp\obj\Debug\net8.0\SimpleConsoleApp.genruntimeconfig.cache
+C:\MyFullStackJourney\csharp-blueprint\Practice\SimpleConsoleApp\obj\Debug\net8.0\ref\SimpleConsoleApp.dll
